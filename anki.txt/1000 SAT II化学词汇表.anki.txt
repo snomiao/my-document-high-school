@@ -1,0 +1,1001 @@
+acid | 酸
+apparatus | 仪器，装置
+aqueous solution | 水溶液
+arrangement of electrons | 电子排列
+assumption | 假设
+atom | 原子（化学变化中的最小粒子）
+atomic mass | 原子量
+atomic number | 原子序数
+atomic radius | 原子半径
+atomic structure | 原子结构
+be composed of | 由……组成
+bombardment | 撞击
+boundary | 界限
+cathode rays | 阴极射线
+cathode-ray oscilloscope (C.R.O) | 阴极电子示波器
+ceramic | 陶器制品
+charge-clouds | 电子云
+charge-to-mass ratio(e/m) | 质荷比（质谱分析时样品质量的测量以质量与其离子电荷之比表示）
+chemical behaviour | 化学行为
+chemical property | 化学性质（物质在化学变化中表现出来的性质）
+clockwise | 顺时针方向的
+compound | 化合物（由不同元素组成的纯净物）
+configuration | 构型
+copper | 铜
+correspond to | 相似
+corrosive | 腐蚀
+d-block elements d | 区元素
+deflect | 使偏向，使转向
+derive from | 源于
+deuterium | 氘
+diffuse mixture | 扩散混合物
+distance effect | 距离效应
+distil | 蒸馏
+distinguish | 区别
+distribution | 分布
+doubly charged(2+) ion | 正二价离子
+dye | 染料
+effect of electric current in solutions | 电流在溶液里的影响
+electrical charge | 电荷
+electrical field | 电场
+electrically neutral atom | 电中性原子
+electricity | 电
+electrolysis | 电解
+electron | 电子（负电荷粒子，电量等于 4.77×10-10 绝对静电单位）
+electron shielding | 电子屏蔽
+element | 元素（具有相同核电荷数即荷内质子数的一类原子的总称）
+emission spectrum | 发射光谱（根据发射光源和激发能量方式所产生的特征电磁波谱）
+energy level | 能态，能级（稳态能量，有相同主量数的电子壳层）
+fertiliser | 肥料
+first ionisation energy | 一级电离能
+fluorescent screen | 荧光屏
+fluoride | 氟化物
+fuel | 燃料
+fundamental substance | 基础物质
+fuzzy | 模糊的
+galaxy | 星系，银河
+gas | 气体
+gaseous state | 气态
+gravity | 重力
+GroupⅠ | 第一族
+Heisenberg’s uncertainty principle | 海森堡测不准原理
+hydrofluoric acid | 氢氟酸
+identical | 同一的，相等的
+in terms of | 根据，在……方面
+innermost | 最内的，最深的
+interaction | 相互作用
+internal structure | 内部结构
+interpret | 解释
+investigate | 研究,调查
+ionisation energy | 电离能（从原子或分子中移走一个电子至无穷远处所需的能量，以电子伏特 eV 表示）
+ionise | 电离
+isotope | 同位素（原子里具有相同的质子数和不同的中子数的同一元素的原子互称同位素）
+J.J. Thomson’s e/m experiment | 汤姆森质何比实验
+Latin | 拉丁
+lepton | 轻粒子
+liquid | 液体
+magnet | 磁铁
+magnetic field | 磁场
+Maltese Cross | 马耳他十字
+marble | 大理石
+mass number | 质量数
+matter | 物质
+metal foil | 金箔
+meteorite | 陨星
+microbe | 微生物，细菌
+Millikan’s ‘oil-drop’ ecperiment | 密立根油滴实验
+model-building | 模型建筑
+mole | 摩尔（表示一个系统的物质的量的单位，该系统中所包含的基本单元数与 12g 碳 12，即 12C 的原子数目相等,每摩尔物质含有阿佛加德罗常数个微粒）
+molecule | 分子（保持物质的化学性质的最小粒子）
+narrow beam | 狭窄的光线
+negative | electrode（cathode） 阴极
+negligible | 可以忽略的
+neutron | 中子
+nitrate | 硝酸盐
+noble gas | 稀有气体
+normal pressures | 常压
+nuclear charge | （原子）核电荷
+nuclear model for atoms | 原子核模型
+nuclear reaction | 核反应
+nucleus （pl.nuclei） | 核
+Orbital | 轨道
+paraffin wax | 石蜡
+particle | 微粒，粒子
+Pauli exclusion principle | 保里不相容原理（每个原子轨道至多只能容纳两个电子；而且，这两个电子自旋方向必须相反 ）
+Periodic Table | 周期表
+physical property | 物理性质（物质不需要发生化学变化就表现出来的性质，如颜色、状态、气味、熔沸点、密度等）
+plastics | 塑料
+plum-pudding | 李子布丁
+positive charge | 正电荷（带有质子的物质，用丝绸摩擦玻璃棒，在棒上会产生正电荷）
+positive electrode (anode) | 阳极
+positively charged particle (ion) | 离子
+potential difference | 电位
+prediction | 预言
+principal quantum number | 主量子数（标示轨道电子的波函数，包括轨道角动量和自旋量子数，电子的能级和距原子核的平均距离主要取决于主量子数）
+probe | 探测，探究
+protium | 氕
+proton | 质子
+quantum （pl. quanta） | 量子（一个电子转移到原子的下一层轨道时发出的有限辐射能单位）
+quantum mechanics | 量子力学
+Quantum Theory | 量子理论
+quark | 夸克（组成基本粒子的更小的粒子）
+radioactive source | 放射源
+repel | 排斥
+repulsion | 斥力
+respectively | 分别地
+rung | 梯级
+scattering effect | 散射作用
+Schr?dinger equation | 薛定谔（波动）方程（一偏微分方程，描述基本粒子波动性）
+scintillation | 火花
+shell | 电子壳层
+shielding effect | 屏蔽效应
+simpler substance | 单质（指由同种元素组成的纯净物）
+solid | 固体
+sphere | 球
+spin | 自旋
+stable state | 稳态
+sub-atomic particle | 原子内的粒子
+subset | 子集，小团体
+successive ionisation energy | 逐级电离能
+symbol | 符号
+symmetry | 对称
+the lowest-energy orbitals | 最低能量轨道
+transition elements | 过渡元素
+tritium | 氚
+X-ray | X射线
+α-particles | α粒子，即 alpha-particle（带有两个质子和中子的粒子，即氦原子核，对物质的穿透力较强，流速约为光速的 1/10）
+α-ray | α射线
+β-particles | β粒子
+β-ray | β射线
+γ-patticles | γ粒子
+γ-rayγ | 射线
+abbreviation | 缩写
+absorption | 吸收
+abundance | 丰度
+accelerate | 加速
+alloy | 合金
+alter | 改变
+atmospheric pressure | 大气压
+Avogadro’s constant | 阿佛加德罗常数（12g12C 含有的原子数，约为 6.02×1023）
+azide | 叠氮化物
+balance chemical equation | 配平化学方程式
+balance ionic equation | 配平离子方程式
+benzene | 苯
+blast furnace | 高炉
+bromide | 溴化物
+bulk | 体积
+burette | 滴定管
+butane | 丁烷
+carbon dioxide | 二氧化碳
+carbon monoxide | 一氧化碳
+carbonate | 碳酸盐
+collide with | 冲突
+combustion analysis | 燃烧分析
+concentration | 浓度
+conical flask | 锥形瓶
+convert | 转化
+covalent bonds | 共价键（原子间通过共用电子对形成的化学键）
+decimal place | 小数位
+deposit | 沉淀物
+detonator | 炸药
+dioxide | 二氧化物
+dissolve | 溶解
+dropwise | 逐滴地
+electric current | 电流
+empirical formulae | 实验式，经验式（只表示化合物中原子间最简单比例关系，非分子式，而为成分式）
+end-point | 终点
+enthalpy | 焓（热力学状态函数，单位质量的热含量，恒压下系统改变状态时增加的热含量，等于内能与体系体积与压力乘积之和）
+equation | 方程式
+ethanoic acid | 乙酸
+filament | 灯丝
+formula （pl. formulae） | 化学式（用元素符号来表示物质组成的式子）
+granule | 颗粒
+Group Ⅰ- the alkali metal | 第一族,碱金属
+Group Ⅱ-the alkaline earth metal | 第二族,碱土金属
+Group Ⅲ- | 第三族
+Group Ⅳ-Carbonic Group | 碳族
+Group Ⅴ-Nitric Group | 氮族
+Group Ⅵ-Oxygenic Group | 氧族
+Group Ⅶ, the halogens | 第七主族，卤族
+hexane | 己烷
+horizontal axis | 横坐标
+hydrocarbon | 碳氢化合物，烃
+hydrochloric acid | 盐酸
+hydrogen peroxide | 过氧化氢
+hydroxide | 氢氧化物
+hypothesis | 假设
+indicator | 指示剂
+inspect | 检查，查看
+iodide | 碘化物
+ionic compound | 离子型化合物（电负性相差大的两种元素相互作用，发生电子转移，变为正、负离子，正、负离子结合形成离子型化合物）
+iron oxide | 氧化铁
+low pressure | 低压
+mass spectrometer | 质谱仪
+methane | 甲烷
+mixture | 混合物（由两种或多种物质混合而成的，这些物质相互间没有发生反应，混合物里各物质都保持原来的性质）
+molar mass | 摩尔质量（1 摩尔物质的质量）
+molarity | 摩尔浓度，也叫物质的量浓度（以 1 升即 1 立方分米溶液里含有多少摩溶质来表示溶液组成的物理量）
+molecular formulae | 分子式（根据元素分析和分子量表示的化学式）
+monoxide | 一氧化物
+negative ion (＝anion) | 阴离子
+neutralise | 中和
+nitric acid | 硝酸
+non-metal | 非金属
+octane | 辛烷
+organic compound | 有机化合物
+oxidation state | 氧化态
+oxide | 氧化物
+peroxide | 过氧化物
+phosphate | 磷酸盐
+pipette | 移液管
+positive ion (＝cation) | 阳离子
+precipitation reaction | 沉淀反应
+reactant | 反应物
+reaction | 反应
+reagent | 试剂，反应物
+redox reaction | 氧化还原反应
+relative atomic mass | 相对原子质量（以碳 12 原子的质量的 1/12 约 1.66×10－27kg 作为标准，其他原子的质量跟它比较所得的值）
+relative formula mass | 相对式量
+relative isotopic mass | 相对同位素质量
+relative molecular mass | 相对分子质量（化学式中各原子的相对原子质量的总和）
+room temperature | 室温
+singly charged | 单核
+stoichiometric ratio | 化学计量比
+stoichiometry | 化学计量法
+sulphate | 硫酸盐
+sulphide | 硫化物
+sulphite | 亚硫酸盐
+sulphuric acid | 硫酸
+temperature | 温度
+thermite | 铝热剂，灼热剂
+titration | 滴定法（将已知浓度的标准溶液加到被测溶液中，直到反应完成，借以测定其浓度）
+vaporize | 汽化
+vertical axis | 纵坐标
+vice versa | 反之亦然
+volume | 体积
+weld | 焊接
+adjacent molecule | 相邻的分子
+amide | 酰胺(含-CONH2 基)
+ammonia | 氨
+atmosphere | 大气层
+atomic orbital | 原子轨道
+attractive force | 吸引力
+biochemical compound | 生化化合物
+boiling point | 沸点
+bond angle | 键角(与同一原子连接的两个键之间的角度)
+bond enthalpy | 键焓，在双原子分子中，键焓与键 能数值相等。在含有若干个相同键的多原子分子中， 键焓是若干个相同键键能的平均值。
+bond length | 键长(分子中两个原子核间的平衡距离)
+bonding pair | 成键电子对
+brine | 盐水
+brittle | 脆的
+building-block(=monomer unit) | 单体(聚合物中最简单的重复结构单元)
+catalyst | 催化剂（能改变反应速度而它本身的组成和质量在反应前后保持不变的物质）
+chemical bonding | 化学键（分子或晶体中，原子或离子之间直接的、主要的和强烈的相互作用称为化学键）
+chemical bonding and structure | 化学键及结构
+chloride | 氯化物
+cleavage | 裂开
+condense | 浓缩
+conduct electricity | 导电
+covalent compound | 共价化合物
+crystal | 晶体
+crystal lattice | 晶格
+crystal plane | 晶体平面
+crystalline solid | 晶状固体
+cyclohexane | 环己胺
+dative covalent bond=coordinate bond | 配位键
+decomposition | 离解
+density | 密度
+dipole-dipole force | 取向力
+dot-and-cross diagram | 电子式,点叉式
+double bond | 双键
+double helix | 双螺旋
+ductile | 可塑性,易变形的,可延展的
+electric dipole | 电偶极子（一对相距极近，符号相反、数值相等的电荷所形成的体系）
+electrical insulator | 电绝缘体
+electrical transformer | 变压器
+electronegativity | 电负性（原子或基团吸引并持留价电子的能力）
+electron-pair | 电子对
+electron-pair repulsion theory | 电子对互斥理论（是利用中心原子周圍電子的排斥理論來預測的分子及離子(去除金屬部分)的形狀）
+electrostatic attraction | 静电吸引（引力）
+emerald | 翡翠
+enthalpy change of vaporization | 蒸发焓
+ethane | 乙烷
+ethanol | 乙醇，又叫酒精
+evaporation | 蒸发
+fabric | 布,
+fibre | 纤维
+fibrous | 纤维状的
+formation of ions | 离子的形成
+gaseous state | 气态
+gemstone | 宝石
+graphite | 石墨
+haemoglobin | 血红蛋白
+hard | 硬的
+high-density poly(ethene) | 高密度聚乙烯
+hydrated ion | 水合离子（与水结合而成，如 H3O＋）
+hydrogen bond | 氢键(氢键是由于与电负性极强的元素如氟、氧等相结合的氢原子和另一分子中电负性极强的原子间所产生的引力而形成)
+insoluble | 不溶
+instantaneous dipole-induced dipole forces | 诱导力
+intermediate character | 两性
+intermolecular force | 分子间作用力(又称 van der Waals’ force 范德华力)
+interval | 间隙
+ionic bonding | 离子键（由原子得失电子后，生成的正负离子之间，靠静电作用而形成的化学键）
+ionic crystal | 离子晶体（离子间通过离子键结合而成的晶体）
+ionic lattice | 离子晶格
+jewellery | 珠宝
+kinetic theory of matter | 物质运动论(所有物质的分子处于恒动状态)
+liquid state | 液态
+lone-pairs | 孤对电子
+low-density poly(ethene) | 低密度聚乙烯
+LP-LP repulsion> LP-BP repulsion> BP-BP repulsion | 孤电子对—孤电子对斥力>孤电子对—成键电子对斥力>成键电子对—成键电子对斥力
+lubricant | 润滑剂
+magnetise | 磁化
+malleable | 有延展性的
+melting point | 熔点
+metal complex | 金属络合物（由金属离子与电子给予体结合而成）
+metallic bonding | 金属键(通过自由运动的价电子将金属原子连结起来的键)
+metallic element | 金属元素
+mineral | 矿物质
+mobile electron | 流动电子
+molecular orbital | 分子轨道
+molten | 熔化
+non-contuctor | 非导体
+non-linear molecule | 非直线分子
+non-metallic element | 非金属元素
+non-polar molecule | 非极性分子
+non-stick properties | 不黏性
+nylon | 尼龙,聚酰胺纤维
+octahedron | 八面体
+oppositely charged electron | 电性相反的电极
+oppositely charged ion | 电性相反的离子
+outer-shell electron | 外层电子
+oxonium ion(=hydronium ion) | 水合氢离子
+polar molecule | 极性分子
+polarisation of ions | 离子极化（在阴阳离子自身电场作用下，产生诱导偶极，而导致离子的极化，即离子的正负电荷重心不再重合，电子云发生变形，致使物质在结构和性质上发生相应的变化）
+polarized | 极化
+poly | 聚乙烯
+poly(ester) chain | 聚酯链
+polychlorinated biphenyls (PCBs) | 多氯联（二）苯
+polymer | 聚合物,高分子
+polymer chain | 聚合物链
+protein | 蛋白质
+quartz | 石英
+relative bond strength | 相对键能
+repulsion | 斥力
+ruby | 红宝石
+sapphire | 蓝宝石
+semi-precious stone | 亚宝石
+single bond | 单键
+slippery | 光滑
+sodium chloride | 氯化钠
+solid state | 固态
+solubility | 溶解度（物质在溶剂中达到饱和时的溶解程度）
+soluble | 可溶
+sparingly soluble | 难溶
+sublimation | 升华(固体不经液态直接转变为气态)
+sublime | 升华(固体不经液态直接转变为气态)
+sucrose | 蔗糖
+surface tension | 表面张力(由于表面层下面的分子与表面层下面的分子间的分子吸引,液体表面收缩成最小表面的趋向)
+symmetrical distribution | 对称分布
+tensile strength | 抗拉强度
+tetrahedral molecule | 四面体分子
+tetrahedron | 四面体
+the δ+ and δ-charges δ+ | 和δ-电荷
+three-dimensional arrangement | 三维排列
+triangular pyramidal molecule | 三角锥形分子
+trichloromethane | 三氯甲烷
+trigonal planar molecule | 三角锥形分子
+triple bond | 三键
+unit cell | 晶胞
+vapour pressure | (蒸汽压)
+viscosity | 黏度(流体流动阻力的表示,为液体中黏合力和内聚力的综合效果)
+volatility | 挥发性
+washing-up liquid | 洗洁精 ; 洗手液
+water is peculiar | 水是特殊的
+weapon | 武器
+δbond | δ键
+δorbital | δ轨道
+π bond | π键
+π orbital | π轨道
+antacid tablet | 解酸的药片
+atomic radii(＝atomic radius) | 原子半径
+barium meal | 钡餐
+Blocks of elements in the Periodic Table | 周期表中元素的分区
+brick red | 砖红色
+bricklaying | 砌砖，泥水业
+brilliant whitish flame | 明亮的白色火焰
+bubble | 泡
+camera lenses | 照相机镜头
+cement | 水泥
+chalk | 白垩
+chemical species | 化学物种
+clay | 黏土，泥土
+cliff | 悬崖
+cloudy white precipitate | 浑浊的白色沉淀
+covalent radius | 共价半径
+covered with a layer of its oxide | 覆盖一层氧化物薄膜
+crucible | 坩埚
+crumble | 粉碎
+d-block d | 区
+diatomic molecule | 双原子分子
+dilute | 稀释
+disulphur dichloride | 二氯化二硫
+dolomite | 白云石
+electronegative | 带负电的，负电性的
+electropositive | 带正电的，正电性的
+evolution | （气体）散出
+exothermic reaction | 放热反应
+f-block f | 区
+filtration | 过滤
+firework | 焰火
+flare | 照明弹
+good conductivity of heat and electricity | 良好的导电导热性
+gypsum | 石膏
+hydrogencarbonate | 碳酸氢盐
+incendiary bomb | 燃烧弹
+indigestion remedy | 消化不良的治疗
+lanthanide and actinide elements | 镧系和锕系元素（周期表中，ⅧB 族有 32 种元素，包括钪、钇、镧和锕，其中镧这一格代表 15 种镧系元素[Z=51~71]，锕这一格代表 15 种锕系元素[Z=89~103]）
+Law of Octaves | 八行周期律（当元素按原子量增加的顺序排列成以八个为一组时，则上下每组对应元素有相似的性质）
+Law of Triads | 三素组
+lime | 石灰
+lime water | 石灰（水溶液）
+limelight | 灰光灯
+limestone | 石灰石
+liquid phase | 液相
+magnesium ribbon | 镁条
+marine invertebrate | 海里的无脊椎动物
+Mendeleev’s periodic table | 门捷列夫周期表（按原子序数递增顺序排列成行，并将元素性质相同者置于各行之下，由此形成 18 列，各列元素的化合价按正规顺序变化）
+metal hydride | 金属氢化物
+metallic radius | 金属半径
+molten slag | 熔渣
+monatomic ion | 一价离子
+mortar | 灰浆
+negative oxidation state | 负化合价
+opaque | 不透，不传导
+oxidation | 氧化
+oxidation number (abbreviated ox. no.) | 氧化数（某元素一个原子的荷电数，这种荷电数由假设把每个键中的电子指定给电负性更大的原子而求得）
+oxidation state | 氧化态
+oxidising agent | 氧化剂（得到电子的物质）
+p-block p | 区
+periodic patterns | 周期律
+periodicity | 周期性
+photographic flash bulb | 感光
+photosynthesis | 光合作用
+pitchblende | 沥青铀矿
+plaster | 石膏
+plaster of Pairs | 熟石膏
+positive oxidation state | 正化合价
+quicklime | 生石灰
+reactivity | 活动性
+reciprocal | 倒数
+redox system | 氧化还原体系
+reducing agent | 还原剂（逝去电子的物质）
+reduction | 还原
+refractory material | 难熔物质
+rotary kiln | 回转窑（炉）
+saturated solution | 饱和溶液
+s-block s | 区
+scum | 浮垢
+sedimentary rock | 沉积岩
+siemens per metre (S m-1) | 西门子/米（西门子是电导实用单位，亦称姆欧，欧姆的倒数）
+single atom | 单原子
+slaked lime | 石灰（固）
+solid phase | 固相
+suspension | 悬浮液
+the outmost electrons | 最外层电子
+the rising parts of the curve | 曲线的上升部分
+the trend is uneven | 趋势是不规则的
+thermal decomposition | 热（分）解
+toxic | 有毒的
+tracer bullet | 示踪子弹
+trough | 曲线上的最小值
+valency | 化合价
+vapour phase | 气相
+vigorous | 剧烈的
+a cream precipitate | 米黄色沉淀
+aerosol propellant | 气溶胶喷射剂
+ammonia solution | 氨水
+anomalous properties | 异常的性质
+antiseptic | 抗菌剂， 防腐剂
+apparent | 透明的
+bacteria | 细菌
+bleach | 漂白
+bromine is a dark red liquid giving off a dense red vapour | 溴是深红色液体，会挥发浓的红色溴蒸气
+capture an electron | 捕获一个电子
+CFCS(chlorofluorocarbons) | 含氯氟烃
+chlorine is greenish yellow gas | 氯是黄绿色气体
+contamination | 污染
+covalent diatomic molecule | 共价双原子分子
+cyclohexane | 环己烷
+dichloromethane | 二氯甲烷
+displacement reaction | 置换反应（由一种单质跟一种化合物起反应,生成另一种单质和另一种化合物的反应：1.非金属取代—电负性强者取代弱者；2.金属取代—金属性强者取代弱者）
+disproportionation reaction | 歧化反应（又叫自身氧化还原反应，在歧化反应中同一种元素的一部分原子[或离子]被氧化,另一部分原子[或离子]被还原）
+electron affinity | 电子亲合势（原子保持其离子电荷的亲合势）
+fire extinguisher | 灭火器
+flammable | 易燃的
+fluorine is pale yellow gas | 氟是淡黄绿色气体
+foaming agent | 起泡剂
+germicide | 杀菌剂
+halate | 次卤酸根离子
+halide | 卤化物
+halogen | 卤族元素，简称卤素
+hydrated halide ion | 水合卤素离子
+inert | 惰性的
+iodine in alcohol | 碘酒
+iodine is a shiny, grey-black crystalline solid which sublimes to a purple vapour | 碘是有光泽的灰黑色晶体，会升华变成紫色碘蒸气
+liver damage | 肝脏损伤
+Lubricant | 滑润剂
+non-flammable | 不易燃的
+organic solvent | 有机溶剂
+organo-chlorine | 有机氯
+ozone layer | 臭氧层
+poisonous | 有毒的
+PTFE (polytetrafluoroethene) | 聚四氟乙烯
+PVC | 聚氯乙烯
+refrigerant | 制冷剂
+solvent | 溶剂
+thyroid problem | 甲状腺问题
+volatility | 挥发性
+water purification | 水质净化
+waterproof clothing | 防水布
+1,2-dichloroethene | 1,2－二氯乙烯
+2,2,3-trimethylbutane | 2,2,3-三甲基丁烷
+2,2,4-trimethypentane (iso-octane) | 2,2,4-三甲基戊烷
+2-bromobutane | 2－溴丁烷
+2-hydroxybenzoic acid | 2－对羟基苯甲酸
+2-methylpentan-3-one | 2－甲基 3－戊酮
+3-ethylpent-2-ene | 3－乙基烯
+acid-base reaction | 酸碱反应
+activation energy | 活化能（分子开始反应所需最低能量，为活化分子能量与所有分子平均能量差）
+addition | 加成
+alanine | 丙氨酸
+alcohol | 醇
+aldehyde | 醛
+aliphatic alcohol | 脂肪醇
+aliphatic aldehyde | 脂肪醛
+aliphatic compounds | 脂肪族化合物
+alkene | 烯烃
+alkyl | 烷基
+allotrope | 同素异形体
+amine | 胺
+amino acid | 氨基酸
+ammonium cyanate | 氰化铵
+anhydrous salt | 无水盐
+anti-bumping stone | 沸石
+aqueous layer | 水层
+arene | 芳烃
+aromatic compounds | 芳香族化合物（分子里含有一个或多个苯环的化合物）
+aspirin | 阿司匹林
+atoms can rotate freely about a carbon-carbon single bond | 原子可绕碳－碳单键自由旋转
+ball-and-stick model | 球棍模型
+benzene ring | 苯环
+branched-chain | 支链
+buchner flask | 布氏烧瓶，抽滤瓶
+buchner funnel | 布氏漏斗（常用于真空抽滤疏松沉淀）
+buckminsterfullerene | 富勒烯(C60)
+but-2-ene | 2－丙稀
+butan1-ol (=CH3CH2CH2CH2OH) | 1－丁醇
+butanoic acid | 丁酸
+cage | 壳体，支架
+calculation of percentage yields | 回收率的计算
+capillary electrophoresis apparatus | 毛细管电泳仪
+carbanion | 负（阴）碳离子
+carbocation | 正（阳）碳离子
+carboxylic acid | 羧酸
+Compact | 致密的
+condenser | 冷凝器
+convection currents | 对流气流（由温差推动）
+criteria for checking purity | 检测纯度的标准
+cyclic hydrocarbon | 环烃（碳原子间相互连接成环状）
+cyclobutane | 环丁烷
+decane | 癸烷
+displayed formula (=full structural formula) | 结构式
+distillation | 蒸馏法
+eicosane | 二十烷
+electric heating mantle | 电热炉
+electrophile | 亲电子试剂
+electrophilic addition | 亲电子加成
+electrophilic substitution | 亲电子取代
+elimination | 消去
+equilibrium | 平衡
+ester | 酯
+ethanoic anhydride | 酐
+ethanol (=CH3CH2OH) | 乙醇
+ethyl- | 乙基
+ethylamine | 乙胺
+Ethylbenzene | 乙基苯
+free redical | 自由基
+free-radical substitution | 自由基取代
+functional group | 官能团
+gas-liquid chromatography | 气液色谱法
+general formula | 通式
+geodesic domes | 地圆学说
+geometric (or cis-trans) isomer | 几何异构体（顺式－反式）
+grooved cork | 具孔塞
+ground glass cone-and-socket joint | 磨口玻璃锥管接合处
+ground glass socket | 磨口玻璃管
+halogenoalkane | 卤代烃
+heptane | 庚烷
+heterolytic fission | 异裂（共价键断裂产生两个相反电荷的离子）
+high-performance liquid chromatography | 高效液相色谱法
+homologous series | 同系物
+homolytic fission | 均裂（共价键断裂产生两个自由基）
+hydrolysis | 水解
+hydroxy-（＝ －OH） | 羟基
+hyphen | 连字符
+immiscible liquid | 不溶混液体
+impurity | 杂质
+intermolecular hydrogen bond | 分子间氢键
+Isomerism | 同分异构现象
+ketone | 酮
+kinetic energy | 动能
+Kjeldahl | 克耶达
+liquid circulates | 液体循环
+melting point tube containing sample | 装有样品的熔点测定管
+methanol (=CH3OH) | 甲醇
+methoxymethane | 甲氧基甲烷
+methyl（－CH3） | 甲基
+Methylpropane | 甲基丙烷
+molecular formula | 分子式
+nomenclature | 系统命名法
+nonane | 壬烷
+nucleophile | 亲核试剂
+nucleophilic addition | 亲核加成
+nucleophilic substitution | 亲核取代
+organic chemistry | 有机化学
+paper chromatography | 纸层析法
+paraffin oil | 石蜡油
+pentan-3-one | 3-戊酮
+pentane | 戊烷
+phenyl ring(-C6H5) | 苯基
+phenylalanine | 苯基丙氨酸
+phosphoric acid | 磷酸
+preliminary calculation | 预算
+propan-1-ol (=CH3CH2CH2OH) | 1－丙醇
+propan-2-ol | 2-丙醇
+propanal | 丙醛
+propane | 丙烷
+propylamine | 丙胺
+pumice | 浮石
+reaction mechanism | 反应机制
+reaction pathway | 反应途径
+recrystallisation | 重结晶
+redistilling | 重蒸馏
+Reflux | 回流
+rubber ring | 橡胶圈
+rubber seal | 橡胶塞
+separating funnel | 分液漏斗
+side-chain | 侧链
+skeletal formula | 骨架
+skeleton | 骨架
+spectroscopic technique | 光谱技术
+stereoisomerism | 立体异构体
+stoppered flask | 已塞紧的烧瓶
+stright-chain | 直链
+structural formula | 结构式；分子式
+structural isomer | 同分异构体（化合物具有相同的分子式，但具有不同结构）
+substitution | 取代
+synthesis | 合成
+the maximum mass of product | 最大产量
+the neck of the reaction flask | 烧瓶瓶颈
+thermometer | 温度计
+thermostatically controlled heating mantle | 恒温控制加热炉
+Thiele tube | 蒂埃尔均热管
+thin-layer chromatography | 薄层层析法
+three-dimensional formula | 立体式
+ultraviolet (UV) | 紫外线
+vacuum filtration | 真空抽滤，真空过滤
+vinegar | 醋
+visible spectroscopy | 可见光
+voltage | 电压
+water bath | 水浴
+wavelength | 波长
+2,2,4-trimethyolpentane | 2,2,4-三甲基戊烷
+2-methylpentane | 戊烷
+adhesive | 粘合剂
+alkane | 烃
+alternatives to fossil fuels | 化石燃料的代替品
+anaerobic decay | 厌氧分解
+bimetallic catalyst | 双金属催化剂
+biofuels | 生物燃料
+bitumen | 沥青
+burn off | 燃尽
+carbon coke | 焦炭
+carcinogenic aldehyde methanal | 致癌的醛甲烷化
+catalytic cracking | 催化裂化（由重质组分催化裂解为轻质组分）
+cellulose | 纤维素
+chemical cell | 化学电池
+CO2 emissions CO2 | 的排放
+coal | 煤
+condensation | 冷凝
+corrode | 腐蚀
+cracking | 裂化
+crude oil | 原油
+cycloalkane | 环烃
+cylinder | 汽缸，圆筒
+diesel | 柴油
+drastic action | 剧烈反应
+efficient combustion | 有效燃烧
+feedstock | 给料
+ferment | 发酵
+fission | 裂变
+flow rate | 流速
+Fluid | 流体
+fluidised bed | 流化床
+fossil | 化石
+fraction | 分馏物
+fractional distillation | 分馏
+fractional distillation column | 分馏塔
+fusion | （核）聚变
+gasoline | 汽油
+generate electricity | 发电
+geothermal: hot rocks | 地热：热岩
+greenhouse effect | 温室效应
+hydrocarbons: fuels | 碳氢化合物：燃料
+hydroelectricity | 水电，水力发电
+inhalation | 吸入
+isomerisation | 异构化
+kerosene | 煤油
+lead-acid battery | 铅酸蓄电池
+lubricating oil | 润滑油
+megawatt | 兆瓦，即 106 瓦
+naphtha | 粗汽油
+natural gas | 天然气
+non-renewable resource | 不可再生资源
+nuclear fuels | 核燃料
+oil refinery | 炼油厂
+oscillating motion | 振动
+overflow pipe | 溢流管
+oxidation product | 氧化产物
+oxidiser | 氧化剂
+petrol | 汽油
+photovoltaic cell | 阻挡层光电池
+plant | 植物
+rapeseed | 油菜籽
+raw material | 原料
+recycle | 重复利用
+reforming | 重整
+regeneration chamber | 燃烧室
+residue | 废料，残渣
+seething mixture | 沸腾的混合物
+separate into layers | 分层
+sieve | 滤网
+solar panels | 太阳能（电池）板
+spherical tank | 球形罐
+spillage | 溢出
+steady state | 稳态
+sunflower oil | 葵花油
+sunlight: solar heating and photovoltaics | 阳光：太阳热和太阳电池
+tarmac | 停机坪
+thermal energy | 热能
+transfer of energy to the surroundings | 把能量转移到四周
+tray | （分馏塔的）板
+turbine | 涡轮
+waste products | 废品
+weir | 坝，堰
+zeolite | 沸石
+2,2-dimethylpropane | 2,2－二甲基丙烷
+CH3· (methyl) free radical | 甲基自由基
+chain reaction | 链锁反应
+combustion in air | 在空气中燃烧
+complete combustion in an excess of air | 在过量空气中完全燃烧
+concentrated sulphuric acid | 浓硫酸
+dodecane | 十二烷
+hydrocarbons: alknes | 碳氢化合物：烃
+in poorly ventilated rooms | 在通风不足的房间
+initiation step | 初级过程
+mechanism | 机理
+overlap | 重叠
+photochemical reaction | 光化学反应（原子、分子、自由基或离子由吸收一个具有一定频率的光子而成为激发态所引起的反应）
+photodissociation | 光解作用（分子通过吸收一个光子的电磁能分裂出一个或多个原子）
+propagation step | 增殖过程
+saturated hydrocarbon | 饱和烃
+termination step | 终止过程
+tetrachloromethane | 四氯甲烷
+undecane | 十一烷
+unsaturated hydrocarbon | 不饱和烃
+waxy solid | 蜡状固体
+2-methylbuta-1,3-diene | 2－甲基－1,3－二丙稀
+addition polymerisation | 加聚反应（由大量小分子（单体）相继加成为大分子量化合物或聚合物）
+antifreeze | 防冻剂
+bark | 树皮
+cis-trans isomerism | 顺－反式同分异构现象
+decolourise | 褪色
+dibromo- | 二溴
+diene | 二烯
+electron-rich | 富电子
+electron-deficient | 缺电子
+electrophilic addition | 亲电加成
+ethane-1,2-diol | 乙烷－乙二醇
+gas scrubber | 气体洗涤器
+gutta-percha | 杜仲胶，古塔胶
+hard margarine | 硬植物油
+horny | 角状的，粗硬的
+hydrocarbons: alkenes | 碳氢化合物：烯烃
+industrial methylated spirits | 工业甲基化酒精
+inelastic | 无弹力的
+isoprene | 异戊（间）二烯
+latex | 橡浆，树乳
+monomer | 单体
+multiple bond | 重键（不饱和化合物中双键和三键的总称）
+natural rubber | 天然橡胶
+nickel catalyst | 镍催化剂
+non-biodegradable | 不可生物降解
+optic nerve | 视觉神经
+percha tree | 橡胶树
+pollutant | 污染物
+poly(chloroethene) | 聚氯乙烯
+poly(phenylethene) | 聚苯乙烯
+polymerisation | 聚合反应
+polyunsaturated | 多个不饱和的
+propene is bubbled through a solution of bromine | 把丙稀通入溴水中
+repeat unit | 重复单元
+retinal | 视网膜
+steam | 蒸汽
+styrene | 苯乙烯
+systematic name | 系统命名
+traditionally vinyl chloride | 氯乙烯
+triethyl- | 三乙基
+Ziegler-Natta catalyst | 齐格勒－纳塔催化剂（由两种金属化合物反应而成，用于烯烃、双烯烃等聚合，生成聚乙烯、聚丙烯）
+planar molecule | 平面分子
+acidified aqueous potassium dichromate | 酸化二氯溶液
+acyl chloride (acylation) | 酰基氯，氯化某酰（酰化作用）
+adulteration | 搀杂
+alkoxide ion（＝RO-） | 烷氧离子
+anaerobic process | 厌氧过程
+ceramic wool soaked in ethanol | 陶瓷羊毛
+cloves | 丁香
+corresponding alcohol | 相应的醇
+dehydration | 脱水
+deterrent | 灭菌剂
+enzyme | 酶
+ethanoate | 醋酸盐
+ethoxide ion | 乙氧基离子
+fermentation | 发酵
+foul taste | 恶臭
+fruity odour | 水果香味
+gentle heating | 微热
+glucose | 葡萄糖
+infrared spectrum | 红外光谱（分子只能吸收与其振动、转动频率相一致的红外线而形成特征光谱）
+litmus paper | 石蕊试纸（检查酸碱性用）
+metabolism | 新陈代谢
+miscibility with water | 与水的互溶性
+phenolphthanlein incicator | 酚酞指示剂
+pore | 孔
+porous ceramic surface | 多孔的陶瓷表面
+primary alcohol | 伯醇
+reverse reaction | 逆发应
+secondary alcohol | 仲醇
+simplified equation | 简化方程式
+tertiary alcohol | 叔醇
+wavenumber | 波数
+yeast | 酵母菌
+aerosol propellant | 气溶胶火箭燃料
+anti-inflammatory medicine | 消炎药
+aqueous ethanolic silver nitrate | 乙醇硝酸银溶液
+blowing agent | 发泡剂
+bromochlorodifluoromethane (BCF) | 溴氯二氟甲烷（灭火剂）
+circuit board | 电路板
+combustible materiall | 可燃物
+degreasing agent | 除油剂
+electrical insulation | 电绝缘材料
+halogenoalkanes | 卤代烃
+ibuprofen | 布洛芬，异丁苯丙酸（解热镇痛药）
+ozone ‘hole’ | 臭氧层空洞
+primary halogenoalkane | 伯卤代烃
+rheumatoid arthritis | 类风湿关节炎
+second halogenoalkane | 仲卤代烃
+silver halide precipitate | 卤化银沉淀
+stratosphere | 平流层
+tertiary halogenoalkane | 叔卤代烃
+the classification of halogenoalkanes | 卤代烃的分类
+beaker | 烧杯
+bond breaking | 断键
+bond making | 成键
+enthalpy change | 焓变
+clamp | 夹
+copper spiral | 铜圈
+endothermic reaction | 吸热反应（体系从环境吸收热能，化学反应的焓变为正值）
+energy transfer | 能量转移
+enthalpy changes by different routes | 不同途径的焓变
+enthalpy cycle | 焓循环、焓周期
+exothermic reaction | 放热反应（体系放热给环境，化学反应的焓变为负值）
+first law of thermodynamics | 热力学第一定律（本质是能量守恒定律）
+flame calorimeter | 火焰量热计
+graph extrapolated backwards to starting time | 反推到开始时间的曲线图
+Haber process | 哈伯合成氨法
+heat capacity | 热容（当一系统由于加给一微小的热量δQ 而温度升高δT 时，Δq/δT 这个量即是热容）
+heating-insulated vessel | 隔热容器
+Hess’ law | 赫斯定律（一个化学反应的热销应决定于其始终态，与中间过程无关）
+joule | 焦耳〔能量和功的单位〕
+law of conservation of energy | 能量守恒定律（在任一封闭系统中总能量保持不变）
+metal calorimeter | 金属量热计
+negative value(-) | 负值
+pascal | 帕斯卡（压强单位）
+perpetual motion | 永恒运动
+polystyrene cup | 聚苯乙烯杯
+positive value(+) | 正值
+reaction pathway | 反应途径
+release large quantities energy | 释放大量能量
+screw | 螺旋桨
+shield | 护板
+specific heat capacity of water | 水的比热容
+spectator ion | 旁观离子
+standard enthalpy change of combustion | 标准摩尔燃烧焓
+standard enthalpy change of formation | 标准摩尔生成焓
+standard enthalpy change of reaction | 标准反应焓变（标准状态下反应的焓变）
+standard enthalpy changes: standard conditions | 标准焓变：标准状态
+stirrer | 搅拌器
+suction pump | 真空泵，抽水机
+vacuum flask | 真空烧瓶
+wick | 灯芯
+reaction rates | 反应速率
+acidity | 酸性，酸度
+adsorb | 吸附
+aldehyde | 乙醛
+at normal temperatures and pressures | 在常温常压下
+basicity | 碱度；碱性
+Bung | 塞
+camphor | 樟脑
+catalytic converter | 催化转化器
+celluloid | 赛璐珞(明胶)
+chemical analysis | 化学分析
+chemical kinetics | 化学动力学
+colorimeter | 色度计
+colour intensity | 色度
+concentration of reactants | 反应物浓度
+constant random motion | 永恒的无规则运动
+desorb | 解吸
+entropy | 熵（热力学状态函数，用于量度系统无序度，等于吸收之热与吸热时绝对温度之商）
+esterification | 酯化
+exhaust gases | 排放气体
+factors that affect the rate of a reaction | 影响反应速率的因素
+gas syringe | 气体注射器
+glass delivery tube | 玻璃导管
+heterogeneous catalysis | 多相催化（催化剂与反应物处于不同相如在固体和流体相界面间发生催化作用）
+homogeneous catalysis | 均相催化（催化剂与反应物在同相中反应）
+intensity of the radiation | 照射的强度
+inverted, water-filled burette | 倒置的装满水的量管
+latitude | 纬度
+low-energy collisions | 低能量碰撞
+nitrocellulose | 硝化纤维素
+nitroglycerine | 硝化甘油
+oxyacetylene torch | 氧乙炔火炬
+peroxyacetyl nitrate(PAN) | 硝酸过氧化乙酰
+ppb | 十亿分之一（10－10）
+ppm | 百万分之一（10－6）
+pressure sensor | 压力感受器
+rate determining step | 决定反应速率的步骤
+removal | 去除
+Ribena | 利宾纳饮料（维C，抗坏血的）
+scanning probe microscopy(SPM) | 扫描显微探针
+sealed container | 密闭容器
+self-sustained | 自我维持
+spectrophotometer | 分光光度计(根据样品对可见光分解为单色光后的透（反）射能量与波长的函数关系，可准确分析色度或比较两种波长的发光强度)
+surface area | 表面积
+temperature sensor | 温感器（能对温度变化作出反应）
+the asymmetric shape of the curve | 曲线的不对称形状
+the Boltzemann distribution | 玻耳兹曼分布（处于热平衡的气体中具有不同能级的分子数的几率）
+the collision theory of reactivity | 碰撞理论（化学反应速率等于反应物分子间的碰撞数乘以有效碰撞因子）
+Timer | 计时器
+equilibra | 平衡
+base | 碱
+closed system | 封闭系统
+constancy of macroscopic properties | 宏观性质的稳定性
+cotton wool | 脱脂棉
+dynamic equilibrium | 动态平衡（在一定条件下德可逆反应里，正反应和逆反应德速率相等，反应混合物中各组成成分德含量保持不变）
+fertility | 肥(沃)度
+forwards direction | 正方向
+irreversible one-way reaction | 不可逆单向反应
+keep the pressure constant | 保持恒压
+Le Chatelier’s principle | 勒沙特列原理（如果改变影响平衡的一个条件如浓度、压强或温度等，平衡就向能够减弱这种改变的方向移动）
+macroscopic properties | 宏观性质
+nail varnish remover | 洗甲油
+Ostwald process | 奥斯特瓦尔德法（制硝酸，采用高温铂网催化剂，将氨氧化为氧化氮，经水吸收成硝酸）
+porous iron | 多孔的铁
+reaction vessel | 反应容器
+reverse direction | 反方向
+reversible reaction | 可逆反应
+strong acid | 强酸
+the equilibrium shifts to minimize this increase | 平衡就向能够减弱这种改变的方向移动
+weak acid | 弱酸
